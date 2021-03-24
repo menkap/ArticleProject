@@ -1,5 +1,8 @@
 # ArticleProject
-
+### Checkout
+```
+https://github.com/menkap/ArticleProject.git
+```
 ### Compiles and Run the Go program
 ```
 Navigate to cmd\article and run below command
