@@ -3,8 +3,16 @@
 ```
 git clone https://github.com/menkap/ArticleProject.git
 ```
+### Database
+```
+Make sure Mongodb is running
+
+DBName: ArticleDB
+```
 ### Compiles and Run the Go program
 ```
+Make sure Mongodb is running
+
 Navigate to cmd\article and run below command
 
 go run .\main.go
