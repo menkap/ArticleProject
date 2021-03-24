@@ -1,7 +1,7 @@
 # ArticleProject
 ### Checkout
 ```
-git clone (https://github.com/menkap/ArticleProject.git)
+git clone https://github.com/menkap/ArticleProject.git
 ```
 ### Compiles and Run the Go program
 ```
