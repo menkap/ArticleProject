@@ -11,8 +11,6 @@ DBName: ArticleDB
 ```
 ### Compiles and Run the Go program
 ```
-Make sure Mongodb is running
-
 Navigate to cmd\article and run below command
 
 go run .\main.go
