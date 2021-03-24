@@ -1,0 +1,43 @@
+2021/03/22 23:24:38.714811 main.go:42: server started on localhost: 8080
+2021/03/22 23:27:51.189459 main.go:42: server started on localhost: 8080
+2021/03/23 14:44:50.430197 main.go:37: server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Average RTT: 0, Last error: connection() error occured during connection handshake: dial tcp [::1]:27017: connectex: No connection could be made because the target machine actively refused it. }, ] }
+2021/03/23 14:49:41.479958 main.go:37: server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Average RTT: 0, Last error: connection() error occured during connection handshake: dial tcp [::1]:27017: connectex: No connection could be made because the target machine actively refused it. }, ] }
+2021/03/23 14:55:14.717750 main.go:42: server started on localhost: 8080
+2021/03/23 15:45:31.990170 main.go:42: server started on localhost: 8080
+2021/03/23 18:58:27.065976 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 18:59:31.466070 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 18:59:45.698914 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:01:20.264862 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:26:46.414937 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:27:43.800080 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:40:07.182295 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:40:48.470330 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:41:32.930302 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:42:15.899406 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 19:43:25.969879 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 20:13:30.241950 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 20:13:31.213398 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 20:15:27.526481 article.go:61: failed to fetch article:  invalid ID
+2021/03/23 20:15:27.530472 article.go:61: failed to fetch article:  invalid ID
+2021/03/24 17:01:40.433410 main.go:37: server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Average RTT: 0, Last error: connection() error occured during connection handshake: dial tcp [::1]:27017: connectex: No connection could be made because the target machine actively refused it. }, ] }
+2021/03/24 17:04:25.310601 main.go:46: server started on localhost: 8080
+2021/03/24 19:19:59.536423 main.go:46: server started on localhost: 8080
+2021/03/24 19:29:31.853292 main.go:46: server started on localhost: 8080
+2021/03/24 19:35:33.042156 main.go:46: server started on localhost: 8080
+2021/03/24 19:39:35.828878 main.go:46: server started on localhost: 8080
+2021/03/24 19:51:45.464759 main.go:46: server started on localhost: 8080
+2021/03/24 19:52:39.238914 main.go:46: server started on localhost: 8080
+2021/03/24 19:53:26.881700 main.go:46: server started on localhost: 8080
+2021/03/24 19:56:03.090241 main.go:46: server started on localhost: 8080
+2021/03/24 19:57:31.445680 main.go:46: server started on localhost: 8080
+2021/03/24 20:05:32.857058 main.go:46: server started on localhost: 8080
+2021/03/24 20:13:02.702585 main.go:46: server started on localhost: 8080
+2021/03/24 20:15:21.101231 main.go:46: server started on localhost: 8080
+2021/03/24 20:16:43.358913 main.go:46: server started on localhost: 8080
+2021/03/24 20:23:35.408289 main.go:46: server started on localhost: 8080
+2021/03/24 20:26:32.277087 main.go:46: server started on localhost: 8080
+2021/03/24 20:29:20.436757 main.go:46: server started on localhost: 8080
+2021/03/24 20:30:15.394379 main.go:46: server started on localhost: 8080
+2021/03/24 20:30:47.780495 main.go:46: server started on localhost: 8080
+2021/03/24 20:36:23.501285 main.go:46: server started on localhost: 8080
+2021/03/24 20:39:18.695824 main.go:46: server started on localhost: 8080

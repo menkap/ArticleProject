@@ -1,0 +1,5 @@
+2021/03/24 17:01:26.506663 article_test.go:40: server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Average RTT: 0, Last error: connection() error occured during connection handshake: dial tcp [::1]:27017: connectex: No connection could be made because the target machine actively refused it. }, ] }
+2021/03/24 17:04:22.643970 article.go:61: failed to fetch article:  invalid ID
+2021/03/24 17:05:31.557321 article.go:61: failed to fetch article:  invalid ID
+2021/03/24 19:19:48.422846 article.go:67: failed to fetch article:  invalid ID
+2021/03/24 20:39:09.481774 article.go:67: failed to fetch article:  invalid ID
