@@ -7,12 +7,9 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
+//Connect -
 func Connect(mongoDSN, dbName string) (*mongo.Database, error) {
-	// uri := "mongodb://" + config.GetConfig("MONGODSN") + "/"
 	clientOptions := options.Client().ApplyURI(mongoDSN)
-	// clientOptions := options.Client().ApplyURI("mongodb://" + config.GetConfig("MONGODSN") + "/")
-	// fmt.Println(uri)
-	// clientOptions := options.Client().ApplyURI("mongodb://localhost:27017/")
 	client, err := mongo.Connect(context.Background(), clientOptions)
 	if err != nil {
 		return nil, err

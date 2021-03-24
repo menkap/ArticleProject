@@ -10,22 +10,6 @@ import (
 	"github.com/stretchr/testify/mock"
 )
 
-// type Repository struct {
-// }
-
-// var repos *Repository
-// var ctx context.Context
-
-// func NewArticle(id, title, content, author string) *model.Article {
-// 	a := model.Article{
-// 		ID:      id,
-// 		Title:   title,
-// 		Content: content,
-// 		Author:  author,
-// 	}
-// 	return &a
-// }
-
 func TestSaveArticleService(t *testing.T) {
 	mockArticleRepo := new(repo.MockArticleRepo)
 	tests := []struct {
